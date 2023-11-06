@@ -1,0 +1,11 @@
+{
+    "name": "main",
+    "version": "1.0.0",
+    "description": "The package containing some utility functions",
+    "scripts": {
+        "build": "tsc --build"
+    },
+    "workspaces": [
+        "@packages/*"
+    ]
+}

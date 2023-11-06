@@ -6,6 +6,7 @@
         "build": "tsc --build"
     },
     "workspaces": [
+        "baz",
         "@packages/*"
     ]
 }

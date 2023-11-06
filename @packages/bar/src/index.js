@@ -1,10 +1,4 @@
-/**
- * @param {string} n
- * @returns {string}
- */
-export function bar(n) {
-    return n;
-}
+export * as hello from "./hello.js";
 
 
 

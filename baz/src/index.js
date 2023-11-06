@@ -6,8 +6,8 @@ import foo from "@packages/foo";
  * @returns {number}
  */
 export function baz(n) {
-    bar.bar(1)
-    foo.foo(1)
+    bar.hello.hello(1);
+    foo.foo(1);
     return n+1;
 }
 

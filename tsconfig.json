@@ -13,6 +13,7 @@
     "outDir": "./build"
   },
   "references": [{
-      "path": "./@packages/bar"
+      "path": "./@packages/bar",
+      "path": "./@packages/foo"
   }]
 }
